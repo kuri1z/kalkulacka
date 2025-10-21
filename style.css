@@ -11,3 +11,16 @@ button { width: 25%; height: 50px; font-size: 20px; }
   margin: 20px auto;          /* zarovnání doprostřed */
 }
 
+
+
+.kok {
+  background-image: url("kok.jpg");  /* cesta k tvému obrázku */
+  background-repeat: no-repeat;         /* nezopakuj obrázek */
+  background-size: cover;               /* roztáhne obrázek přes celou stránku */
+  background-position: center;          /* vycentruje obrázek */
+  background-attachment: fixed;         /* pozadí zůstane při scrollování */
+}
+
+
+
+
