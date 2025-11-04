@@ -4,22 +4,15 @@ input { width: 100%; height: 50px; text-align: right; margin-bottom: 10px; font-
 button { width: 25%; height: 50px; font-size: 20px; }
 
 .calc {
-  border: 3px solid black;   /* tloušťka, typ a barva rámečku */
-  padding: 10px;              /* vnitřní mezera */
-  border-radius: 10px;        /* zaoblené rohy (volitelné) */
-  width: 250px;               /* volitelné – šířka kalkulačky */
-  margin: 20px auto;          /* zarovnání doprostřed */
+  border: 3px solid black;  
+  padding: 10px;              
+  border-radius: 10px;      
+  width: 250px;              
+  margin: 20px auto;       
 }
 
 
 
-.kok {
-  background-image: url("kok.jpg");  /* cesta k tvému obrázku */
-  background-repeat: no-repeat;         /* nezopakuj obrázek */
-  background-size: cover;               /* roztáhne obrázek přes celou stránku */
-  background-position: center;          /* vycentruje obrázek */
-  background-attachment: fixed;         /* pozadí zůstane při scrollování */
-}
 
 
 
